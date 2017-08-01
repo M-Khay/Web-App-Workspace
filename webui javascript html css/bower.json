@@ -1,0 +1,17 @@
+{
+  "name": "webui javascript html css",
+  "description": "understanding bower usage and practice.",
+  "main": "bower.json",
+  "authors": [
+    "Khay"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
